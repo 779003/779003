@@ -1,5 +1,4 @@
 ### Hi there 👋
-
 <!--
 **779003/779003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,4 +13,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-test
+
+
+#### 운영중인 사이트!
+-----
+* [시크릿 스레드](http://secret-thread.com) 키워드로 소통하는 비밀 공간입니다. 익명으로 활동할 수 있는 스레드플로팅 형식의 커뮤니티
+* [디저트 맵](https://dessert-map.com)  붕어빵, 떡볶이집 등 길거리 노점 위치 공유 플랫폼
