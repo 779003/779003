@@ -31,6 +31,7 @@ Here are some ideas to get you started:
 	- 2021년 11월부터 운영 시작. SpringBoot, JPA 기반으로 개발 (1인 개발)<br>
 	- AWS EC2 호스팅, AWS CertificateManager(ACM)을 이용하여 SSL인증서 관리
 	- AWS S3를 이용한 이미지 업로드 기능 구현, AWS CoudFront를 이용하여 업로드 이미지 CDN 구축
+	- SNS로그인 구현 (Naver, Google)
 	- Google SearchConsole, Google Analytics, Naver search advisor를 활용하여 사이트 운영 및 관리
 
 **[[캠핑 맵]](https://camping-map.com)** - 노지, 백패킹, 오토캠핑장 등 캠핑 위치 공유 플랫폼. 지도형식의 위치 공유, 사용자 리뷰
@@ -39,6 +40,7 @@ Here are some ideas to get you started:
 	- 2022년 5월부터 운영 시작. 디저트맵 리소스를 활용하여 개발 (1인 개발)
 	- AWS EC2 호스팅, AWS CertificateManager(ACM)을 이용하여 SSL인증서 관리
 	- AWS S3를 이용한 이미지 업로드 기능 구현, AWS CoudFront를 이용하여 업로드 이미지 CDN 구축
+	- SNS로그인 구현 (Naver, Google)
 	- Google SearchConsole, Google Analytics, Naver search advisor를 활용하여 사이트 운영 및 관리
 
 <!--
