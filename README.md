@@ -78,10 +78,10 @@ Here are some ideas to get you started:
 	- 프로그램 문서화(개발 코드 규칙 및 흐름 정리) 및 프로그램 전체 사용자 매뉴얼 작성
 	
 	
-**지마켓글로벌(구 이베이코리아) 시스템 개발** - SiteOps실 Cloud Engineering팀 소속(외부계약)으로 내부 시스템 모니터링 시스템인 Quantum의 API 개발
+**지마켓글로벌(구 이베이코리아) 시스템 개발** - 사내 시스템 데이터 수집 및 API 개발
   > <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white"> <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=for-the-badge&logo=Spring Security&logoColor=white"> <img src="https://img.shields.io/badge/Spring Cloud-6DB33F?style=for-the-badge&logo=Spring &logoColor=white"> <img src="https://img.shields.io/badge/Maria DB-003545?style=for-the-badge&logo=MariaDB&logoColor=white"> <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white"> <img src="https://img.shields.io/badge/Vault-000000?style=for-the-badge&logo=Vault&logoColor=white">
   
-  	- 2020.11 ~ 재직 중
+  	- 2020.11 ~ 재직 중 (외부계약)
 	- 외부 데이터(사내 타 시스템, Azure/CDNetworks, mail데이터 파싱) 수집
 	- 수집된 데이터를 통해 사내 시스템의 효율적인 지표 관리 및 반복 작업의 자동화
 	- oAuth2를 활용한 사용자 관리
