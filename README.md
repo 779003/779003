@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 
 
 **고려대학교 통합앱(KUPON) / openAPI 개발** - 학부생들과 함께 학교 통합앱 개발, 앱에서 교내 DB접근을 위한 OpenAPI개발
-  > <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"> <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white"> <img src="https://img.shields.io/badge/Apache Cordova-E8E8E8?style=for-the-badge&logo=Apache Cordova&logoColor=white">
+  > <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"> <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=for-the-badge&logo=Spring Security&logoColor=white"> <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white"> <img src="https://img.shields.io/badge/Apache Cordova-E8E8E8?style=for-the-badge&logo=Apache Cordova&logoColor=white">
   
   	- 2016.06 ~ 2017.06
 	- Cordova를 사용하여 하이브리드 앱 개발
@@ -74,7 +74,7 @@ Here are some ideas to get you started:
   
   	- 2018.06 ~ 2020.11
 	- 수년전 개발되어 유지보수가 어렵고 개발 편의성이 낮은 솔루션을 고도화 참여 (JAVA Singleton > Spring MVC)
-	- 솔루션을 사용하는 고객사의 요구조건에 맞춰 시스템 커스터마이징 개발, 사용방법 및 트러블 슈팅 지원
+	- 솔루션을 사용하는 고객사의 요구조건에 맞춰 시스템 커스터마이징 개발, 사용방법 지원 및 트러블 슈팅
 	- 프로그램 문서화(개발 코드 규칙 및 흐름 정리) 및 프로그램 전체 사용자 매뉴얼 작성
 	
 	
@@ -84,9 +84,6 @@ Here are some ideas to get you started:
   	- 2020.11 ~ 재직 중 (외부계약)
 	- 외부 데이터(사내 타 시스템, Azure/CDNetworks, mail데이터 파싱) 수집
 	- 수집된 데이터를 통해 사내 시스템의 효율적인 지표 관리 및 반복 작업의 자동화를 API형식으로 지원
+	- Spring Coud를 활용한 MSA개발
 	- oAuth2를 활용한 사용자 관리
-
-<!--
------
-[![779003's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=779003&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/779003)
--->
+	- Vault를 활용한 비밀정보 관리
