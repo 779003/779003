@@ -79,7 +79,7 @@ Here are some ideas to get you started:
 	
 	
 **지마켓글로벌(구 이베이코리아) 시스템 개발** - 사내 시스템 데이터 수집 및 API 개발
-  > <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white"> <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=for-the-badge&logo=Spring Security&logoColor=white"> <img src="https://img.shields.io/badge/Spring Cloud-6DB33F?style=for-the-badge&logo=Spring &logoColor=white"> <img src="https://img.shields.io/badge/Maria DB-003545?style=for-the-badge&logo=MariaDB&logoColor=white"> <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white"> <img src="https://img.shields.io/badge/Vault-000000?style=for-the-badge&logo=Vault&logoColor=white">
+  > <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white"> <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=for-the-badge&logo=Spring Security&logoColor=white"> <img src="https://img.shields.io/badge/Spring Cloud-6DB33F?style=for-the-badge&logo=Spring &logoColor=white"> <img src="https://img.shields.io/badge/Maria DB-003545?style=for-the-badge&logo=MariaDB&logoColor=white"> <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white">  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"> <img src="https://img.shields.io/badge/Vault-000000?style=for-the-badge&logo=Vault&logoColor=white">
   
   	- 2020.11 ~ 재직 중 (외부계약)
 	- 외부 데이터(사내 타 시스템, Azure/CDNetworks, mail데이터 파싱) 수집
@@ -87,3 +87,4 @@ Here are some ideas to get you started:
 	- Spring Coud를 활용한 MSA개발
 	- oAuth2를 활용한 사용자 관리
 	- Vault를 활용한 비밀정보 관리
+	- Docker, Jenkins를 활용한 배포 관리 
