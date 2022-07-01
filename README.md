@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 	- Google Ads를 활용한 마케팅
 	- Google Adsense로 수익 실현
 	
+<br>
 
 **[[디저트 맵]](https://dessert-map.com)** - 붕어빵, 떡볶이집 등 길거리 노점 위치 공유 플랫폼. 지도형식의 위치 공유, 사용자 리뷰
   > <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white"> <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=for-the-badge&logo=Spring Security&logoColor=white"> <img src="https://img.shields.io/badge/Maria DB-003545?style=for-the-badge&logo=MariaDB&logoColor=white"> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white"> <img src="https://img.shields.io/badge/Amazon S3-569A31?style=for-the-badge&logo=AmazonS3&logoColor=white"> <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=for-the-badge&logo=Amazon EC2&logoColor=white"> <img src="https://img.shields.io/badge/Naver login-03C75A?style=for-the-badge&logo=Naver&logoColor=white"> <img src="https://img.shields.io/badge/Google login-4285F4?style=for-the-badge&logo=Google&logoColor=white"> <img src="https://img.shields.io/badge/Google Analytics-E37400?style=for-the-badge&logo=Google Analytics&logoColor=white"> <img src="https://img.shields.io/badge/Google Ads-4285F4?style=for-the-badge&logo=Google Ads&logoColor=white">
@@ -36,6 +37,7 @@ Here are some ideas to get you started:
 	- Google SearchConsole, Google Analytics, Naver search advisor를 활용하여 사이트 운영 및 관리
 	- Google Ads 및 블로그, 트위터를 활용한 마케팅
 
+<br>
 
 **[[캠핑 맵]](https://camping-map.com)** - 노지, 백패킹, 오토캠핑장 등 캠핑 위치 공유 플랫폼. 지도형식의 위치 공유, 사용자 리뷰
  > <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white"> <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=for-the-badge&logo=Spring Security&logoColor=white"> <img src="https://img.shields.io/badge/Maria DB-003545?style=for-the-badge&logo=MariaDB&logoColor=white"> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white"> <img src="https://img.shields.io/badge/Amazon S3-569A31?style=for-the-badge&logo=AmazonS3&logoColor=white"> <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=for-the-badge&logo=Amazon EC2&logoColor=white"> <img src="https://img.shields.io/badge/Naver login-03C75A?style=for-the-badge&logo=Naver&logoColor=white"> <img src="https://img.shields.io/badge/Google login-4285F4?style=for-the-badge&logo=Google&logoColor=white"> <img src="https://img.shields.io/badge/Google Analytics-E37400?style=for-the-badge&logo=Google Analytics&logoColor=white"> <img src="https://img.shields.io/badge/Google Ads-4285F4?style=for-the-badge&logo=Google Ads&logoColor=white">
@@ -54,6 +56,7 @@ Here are some ideas to get you started:
 
 - 전체 경력: 2016.06 ~ 현재까지
 
+<br>
 
 **고려대학교 통합앱(KUPON) / openAPI 개발** - 학부생들과 함께 학교 통합앱 개발, 앱에서 교내 DB접근을 위한 OpenAPI개발
   > <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"> <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=for-the-badge&logo=Spring Security&logoColor=white"> <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white"> <img src="https://img.shields.io/badge/Apache Cordova-E8E8E8?style=for-the-badge&logo=Apache Cordova&logoColor=white">
@@ -63,6 +66,7 @@ Here are some ideas to get you started:
 	- oAuth2를 활용한 학부생 포털 계정으로 로그인
 	- Android마켓, iOS마켓 등록
 	
+<br>
 
 **[[대한민국정부포털(정부24)]](https://www.gov.kr/) / [[열린데이터광장]](https://data.seoul.go.kr/)** - 정부24, 열린데이터광장 시스템 유지보수 업무 수행
   > <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"> <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white"> <img src="https://img.shields.io/badge/Postgre SQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white">
@@ -71,7 +75,8 @@ Here are some ideas to get you started:
 	- 시스템(서버, DB) 모니터링 및 정기 점검
 	- 전자정부 프레임워크(eGov) 사용
 	
-	
+<br>
+
 **SimmsSoft사 솔루션 SIMMS, AtlaaS, SRmanager 기능 개발 및 운영** - B2B솔루션 3개에 대한 고도화, 커스터마이징, 고객지원
   > <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"> 
   
@@ -80,7 +85,8 @@ Here are some ideas to get you started:
 	- 솔루션을 사용하는 고객사의 요구조건에 맞춰 시스템 커스터마이징 개발, 사용방법 지원 및 트러블 슈팅
 	- 프로그램 문서화(개발 코드 규칙 및 흐름 정리) 및 프로그램 전체 사용자 매뉴얼 작성
 	
-	
+<br>
+
 **지마켓글로벌(구 이베이코리아) 시스템 개발** - 사내 시스템 데이터 수집 및 API 개발
   > <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white"> <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=for-the-badge&logo=Spring Security&logoColor=white"> <img src="https://img.shields.io/badge/Spring Cloud-6DB33F?style=for-the-badge&logo=Spring &logoColor=white"> <img src="https://img.shields.io/badge/Maria DB-003545?style=for-the-badge&logo=MariaDB&logoColor=white"> <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white">  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"> <img src="https://img.shields.io/badge/Vault-000000?style=for-the-badge&logo=Vault&logoColor=white">
   
