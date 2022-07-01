@@ -34,7 +34,8 @@ Here are some ideas to get you started:
 	- AWS S3를 이용한 이미지 업로드 기능 구현, AWS CoudFront를 이용하여 업로드 이미지 CDN 구축
 	- SNS로그인 구현 (Naver, Google)
 	- Google SearchConsole, Google Analytics, Naver search advisor를 활용하여 사이트 운영 및 관리
-	- Google Ads 및 블로그, 트위터 마케팅
+	- Google Ads 및 블로그, 트위터를 활용한 마케팅
+
 
 **[[캠핑 맵]](https://camping-map.com)** - 노지, 백패킹, 오토캠핑장 등 캠핑 위치 공유 플랫폼. 지도형식의 위치 공유, 사용자 리뷰
  > <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white"> <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=for-the-badge&logo=Spring Security&logoColor=white"> <img src="https://img.shields.io/badge/Maria DB-003545?style=for-the-badge&logo=MariaDB&logoColor=white"> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white"> <img src="https://img.shields.io/badge/Amazon S3-569A31?style=for-the-badge&logo=AmazonS3&logoColor=white"> <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=for-the-badge&logo=Amazon EC2&logoColor=white"> <img src="https://img.shields.io/badge/Naver login-03C75A?style=for-the-badge&logo=Naver&logoColor=white"> <img src="https://img.shields.io/badge/Google login-4285F4?style=for-the-badge&logo=Google&logoColor=white"> <img src="https://img.shields.io/badge/Google Analytics-E37400?style=for-the-badge&logo=Google Analytics&logoColor=white"> <img src="https://img.shields.io/badge/Google Ads-4285F4?style=for-the-badge&logo=Google Ads&logoColor=white">
@@ -45,6 +46,7 @@ Here are some ideas to get you started:
 	- SNS로그인 구현 (Naver, Google)
 	- Google SearchConsole, Google Analytics, Naver search advisor를 활용하여 사이트 운영 및 관리
 	- Google Ads를 활용한 마케팅
+	
 	
 -----
 
@@ -68,6 +70,7 @@ Here are some ideas to get you started:
 	- 2017.09 ~ 2018.05
 	- 시스템(서버, DB) 모니터링 및 정기 점검
 	- 전자정부 프레임워크(eGov) 사용
+	
 	
 **SimmsSoft사 솔루션 SIMMS, AtlaaS, SRmanager 기능 개발 및 운영** - B2B솔루션 3개에 대한 고도화, 커스터마이징, 고객지원
   > <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"> 
