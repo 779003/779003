@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+contact. mskim9003@gmail.com
+
 -----
 #### 😄운영중인 사이트😄
 **[[시크릿 스레드]](http://secret-thread.com)** - 익명으로 활동할 수 있는 스레드플로팅 형식의 커뮤니티. 키워드로 소통하는 공간
@@ -62,8 +64,8 @@ Here are some ideas to get you started:
   > <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"> <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=for-the-badge&logo=Spring Security&logoColor=white"> <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white"> <img src="https://img.shields.io/badge/Apache Cordova-E8E8E8?style=for-the-badge&logo=Apache Cordova&logoColor=white">
   
   	- 2016.06 ~ 2017.06
-	- Cordova를 사용하여 하이브리드 앱 개발
 	- oAuth2를 활용한 학부생 포털 계정으로 로그인
+	- Apache Cordova를 사용하여 하이브리드 앱 개발
 	- Android마켓, iOS마켓 등록
 	
 <br>
@@ -73,6 +75,7 @@ Here are some ideas to get you started:
   
 	- 2017.09 ~ 2018.05
 	- 시스템(서버, DB) 모니터링 및 정기 점검
+	- 기능 추가 및 기능 개선 참여
 	- 전자정부 프레임워크(eGov) 사용
 	
 <br>
@@ -82,6 +85,7 @@ Here are some ideas to get you started:
   
   	- 2018.06 ~ 2020.11
 	- 수년전 개발되어 유지보수가 어렵고 개발 편의성이 낮은 솔루션을 고도화 참여 (JAVA Singleton > Spring MVC)
+	- 통계 쿼리 작성 및 amChart를 활용한 통계 대시보드 페이지 구현
 	- 솔루션을 사용하는 고객사의 요구조건에 맞춰 시스템 커스터마이징 개발, 사용방법 지원 및 트러블 슈팅
 	- 프로그램 문서화(개발 코드 규칙 및 흐름 정리) 및 프로그램 전체 사용자 매뉴얼 작성
 	
