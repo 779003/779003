@@ -97,7 +97,7 @@ contact. mskim9003@gmail.com
   	- 2020.11 ~ 2022.08 (외부계약)
 	- 외부 데이터(사내 타 시스템, Azure/CDNetworks, mail데이터 파싱) 수집
 	- 수집된 데이터를 통해 사내 시스템의 효율적인 지표 관리 및 반복 작업의 자동화를 API형식으로 지원
-	- Spring Coud를 활용한 MSA개발
+	- Spring Cloud를 활용한 MSA개발
 	- oAuth2를 활용한 사용자 관리
 	- Vault를 활용한 비밀정보 관리
 	- Docker, Jenkins를 활용한 배포 관리 
