@@ -60,7 +60,7 @@ contact. mskim9003@gmail.com
 
 <br>
 
-**고려대학교 통합앱(KUPON) / openAPI 개발** - 학부생들과 함께 학교 통합앱 개발, 앱에서 교내 DB접근을 위한 OpenAPI개발
+**[고려대학교] 통합앱(KUPON) / openAPI 개발** - 학부생들과 함께 학교 통합앱 개발, 앱에서 교내 DB접근을 위한 OpenAPI개발
   > <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"> <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=for-the-badge&logo=Spring Security&logoColor=white"> <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white"> <img src="https://img.shields.io/badge/Apache Cordova-E8E8E8?style=for-the-badge&logo=Apache Cordova&logoColor=white">
   
   	- 2016.06 ~ 2017.06
@@ -80,7 +80,7 @@ contact. mskim9003@gmail.com
 	
 <br>
 
-**SimmsSoft사 솔루션 SIMMS, AtlaaS, SRmanager 기능 개발 및 운영** - B2B솔루션 3개에 대한 고도화, 커스터마이징, 고객지원
+**[심스소프트] 솔루션 SIMMS, AtlaaS, SRmanager 기능 개발 및 운영** - B2B솔루션 3개에 대한 고도화, 커스터마이징, 고객지원
   > <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"> 
   
   	- 2018.06 ~ 2020.11
@@ -91,7 +91,7 @@ contact. mskim9003@gmail.com
 	
 <br>
 
-**지마켓 글로벌(구 이베이코리아) 시스템 개발** - 사내 시스템 데이터 수집 및 API 개발
+**[지마켓 글로벌(구 이베이코리아)] 시스템 개발** - 사내 시스템 데이터 수집 및 API 개발
   > <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white"> <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=for-the-badge&logo=Spring Security&logoColor=white"> <img src="https://img.shields.io/badge/Spring Cloud-6DB33F?style=for-the-badge&logo=Spring &logoColor=white"> <img src="https://img.shields.io/badge/Maria DB-003545?style=for-the-badge&logo=MariaDB&logoColor=white"> <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white">  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"> <img src="https://img.shields.io/badge/Vault-000000?style=for-the-badge&logo=Vault&logoColor=white">
   
   	- 2020.11 ~ 2022.08 (외부계약)
@@ -101,3 +101,5 @@ contact. mskim9003@gmail.com
 	- oAuth2를 활용한 사용자 관리
 	- Vault를 활용한 비밀정보 관리
 	- Docker, Jenkins를 활용한 배포 관리 
+	
+	
