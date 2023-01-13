@@ -103,3 +103,15 @@ contact. mskim9003@gmail.com
 	- Docker, Jenkins를 활용한 배포 관리 
 	
 	
+<br>
+
+**[와그] 시스템 개발** - 외부 상품 연동 및 API 개발
+  > <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white"> <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=for-the-badge&logo=Spring Security&logoColor=white"> <img src="https://img.shields.io/badge/Spring Cloud-6DB33F?style=for-the-badge&logo=Spring &logoColor=white"> <img src="https://img.shields.io/badge/Maria DB-003545?style=for-the-badge&logo=MariaDB&logoColor=white"> <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white">  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"> 
+  
+  	- 2022.10 ~ 2022.11
+	- 여행, 액티비티 플랫폼 와그의 상품 API 개발
+	- 외부업체 상품 API(상품 정보, 구매 등)를 와그 시스템에 맞춰 연동 및 서비스 지원
+	- Spring Cloud를 활용한 MSA 개발
+	- oAuth2를 활용한 사용자 관리
+	- Docker, Jenkins를 활용한 배포 관리 
+		
