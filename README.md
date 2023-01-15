@@ -105,7 +105,7 @@ contact. mskim9003@gmail.com
 	
 <br>
 
-**[와그] 시스템 개발** - 외부 상품 연동 및 API 개발
+**[와그] 시스템 개발** - 외부업체 상품 연동 및 API 개발
   > <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white"> <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=for-the-badge&logo=Spring Security&logoColor=white"> <img src="https://img.shields.io/badge/Spring Cloud-6DB33F?style=for-the-badge&logo=Spring &logoColor=white"> <img src="https://img.shields.io/badge/Maria DB-003545?style=for-the-badge&logo=MariaDB&logoColor=white"> <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white">  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"> 
   
   	- 2022.10 ~ 2022.11
