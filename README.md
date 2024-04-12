@@ -60,6 +60,16 @@ contact. mskim9003@gmail.com
 
 <br>
 
+**[트래블포트코리아] 시스템 개발** - Galileo GDS 조회 API 개발
+  > <img src="https://img.shields.io/badge/.net 8-512BD4?style=for-the-badge&logo=.net&logoColor=white"> <img src="https://img.shields.io/badge/MS SQL-CC2927?style=for-the-badge&logo=Microsoft SQL Server&logoColor=white"> <img src="https://img.shields.io/badge/Vault-000000?style=for-the-badge&logo=Vault&logoColor=white"> <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=Elasticsearch&logoColor=white"> <img src="https://img.shields.io/badge/Logstash-005571?style=for-the-badge&logo=Logstash&logoColor=white"> <img src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=Kibana&logoColor=white">  <img src="https://img.shields.io/badge/Naver Cloud-03C75A?style=for-the-badge&logo=Naver&logoColor=white"> 
+  
+  	- 2023.05 ~ 재직중
+	- Galileo GDS(항공권 조회, 예약 및 판매 시스템)를 이용한 시스템 개발 업무 수행
+	- 항공사 API를 활용한 GDS 외 상품 구조화 및 연계
+	- Vault를 활용한 비밀정보 관리
+	- Azure devops를 활용한 배포 관리 
+	
+<br>
 
 **[지마켓 글로벌(구 이베이코리아)] 시스템 개발** - 사내 시스템 데이터 수집 및 API 개발
   > <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white"> <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=for-the-badge&logo=Spring Security&logoColor=white"> <img src="https://img.shields.io/badge/Spring Cloud-6DB33F?style=for-the-badge&logo=Spring &logoColor=white"> <img src="https://img.shields.io/badge/Maria DB-003545?style=for-the-badge&logo=MariaDB&logoColor=white"> <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white">  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"> <img src="https://img.shields.io/badge/Vault-000000?style=for-the-badge&logo=Vault&logoColor=white">
