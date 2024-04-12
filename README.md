@@ -67,7 +67,8 @@ contact. mskim9003@gmail.com
 	- Galileo GDS(항공권 조회, 예약 및 판매 시스템)를 이용한 시스템 개발 업무 수행
 	- 항공사 API를 활용한 GDS 외 상품 구조화 및 연계
 	- Vault를 활용한 비밀정보 관리
-	- Azure devops를 활용한 배포 관리 
+	- Azure devops를 활용한 배포 관리
+ 	- AutoScale을 활용한 유연한 리소스 활용
 	
 <br>
 
