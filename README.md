@@ -51,7 +51,17 @@ contact. mskim9003@gmail.com
 	- Google SearchConsole, Google Analytics, Naver search advisor를 활용하여 사이트 운영 및 관리
 	- Google Ads를 활용한 마케팅
 	
-	
+
+<br>
+
+**[[Cargo system]]** - 수출 상품 창고 재고 관리, 입고/출고 현황, 주문서, 운송장 관리, 히스토리 및 대시보드 제공
+ > <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white"> <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=for-the-badge&logo=Spring Security&logoColor=white"> <img src="https://img.shields.io/badge/Maria DB-003545?style=for-the-badge&logo=MariaDB&logoColor=white"> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white">  <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=for-the-badge&logo=Amazon EC2&logoColor=white"> <img src="https://img.shields.io/badge/Naver login-03C75A?style=for-the-badge&logo=Naver&logoColor=white"> <img src="https://img.shields.io/badge/Google login-4285F4?style=for-the-badge&logo=Google&logoColor=white">
+
+	-2023년 3월부터 운영 시작. 현재 서비스 중단 (1인 개발)
+ 	- 뉴질랜드 물류 사업 중인 지인의 부탁으로 제작
+	- AWS EC2 호스팅, AWS CertificateManager(ACM)을 이용하여 SSL인증서 관리
+	- SNS로그인 구현 (Naver, Google)
+
 -----
 
 #### 💬주요 경력💬
