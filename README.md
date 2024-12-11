@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 contact. mskim9003@gmail.com
 
 -----
-#### 😄운영중인 사이트😄
+#### 😄개인 프로젝트😄
 **[[시크릿 스레드]](http://secret-thread.com)** - 익명으로 활동할 수 있는 스레드플로팅 형식의 커뮤니티. 키워드로 소통하는 공간
   > <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"> <img src="https://img.shields.io/badge/Maria DB-003545?style=for-the-badge&logo=MariaDB&logoColor=white"> <img src="https://img.shields.io/badge/Google AdSense-4285F4?style=for-the-badge&logo=Google AdSense&logoColor=white"> <img src="https://img.shields.io/badge/Google Analytics-E37400?style=for-the-badge&logo=Google Analytics&logoColor=white"> <img src="https://img.shields.io/badge/Google Ads-4285F4?style=for-the-badge&logo=Google Ads&logoColor=white">
   
