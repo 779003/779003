@@ -62,6 +62,17 @@ contact. mskim9003@gmail.com
 	- AWS EC2 호스팅, AWS CertificateManager(ACM)을 이용하여 SSL인증서 관리
 	- SNS로그인 구현 (Naver, Google)
 
+
+<br>
+
+**[[모비노기 정보]](http://mobinogi.info)** - 마비노기 모바일의 스케줄 관리 및 정보 공유 커뮤니티
+  > <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"> <img src="https://img.shields.io/badge/Maria DB-003545?style=for-the-badge&logo=MariaDB&logoColor=white"> <img src="https://img.shields.io/badge/Google AdSense-4285F4?style=for-the-badge&logo=Google AdSense&logoColor=white"> <img src="https://img.shields.io/badge/Google Analytics-E37400?style=for-the-badge&logo=Google Analytics&logoColor=white">
+  
+	- 2025년 4월부터 운영 시작. Spring, mabatis 기반으로 개발 (1인 개발)
+	- Cafe24 호스팅
+ 	- 저렴한 서버를 사용하기 위한 최적화에 관점을 두고 작업
+	- Google SearchConsole, Google Analytics, Naver search advisor를 활용하여 사이트 운영 및 관리
+	- Google Adsense로 수익 실현
 -----
 
 #### 💬주요 경력💬
@@ -129,7 +140,7 @@ contact. mskim9003@gmail.com
 <br>
 
 
-
+	
 
 	
 
