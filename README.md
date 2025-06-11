@@ -21,7 +21,7 @@ contact. mskim9003@gmail.com
 **[[시크릿 스레드]](http://secret-thread.com)** - 익명으로 활동할 수 있는 스레드플로팅 형식의 커뮤니티. 키워드로 소통하는 공간
   > <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"> <img src="https://img.shields.io/badge/Maria DB-003545?style=for-the-badge&logo=MariaDB&logoColor=white"> <img src="https://img.shields.io/badge/Google AdSense-4285F4?style=for-the-badge&logo=Google-AdSense&logoColor=white"> <img src="https://img.shields.io/badge/Google Analytics-E37400?style=for-the-badge&logo=Google-Analytics&logoColor=white"> <img src="https://img.shields.io/badge/Google Ads-4285F4?style=for-the-badge&logo=Google-Ads&logoColor=white">
   
-	- 2018년 4월부터 운영 시작. Spring, mabatis 기반으로 개발 (1인 개발)
+	- 2018년 4월부터 운영 시작. Spring, mybatis 기반으로 개발 (1인 개발)
 	- Cafe24 호스팅
 	- Google SearchConsole, Google Analytics, Naver search advisor를 활용하여 사이트 운영 및 관리
 	- Google Ads를 활용한 마케팅
@@ -68,7 +68,7 @@ contact. mskim9003@gmail.com
 **[[모빈포]](http://mobinogi.info)** - 마비노기 모바일의 스케줄 관리 및 정보 공유 커뮤니티
   > <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"> <img src="https://img.shields.io/badge/Maria DB-003545?style=for-the-badge&logo=MariaDB&logoColor=white"> <img src="https://img.shields.io/badge/Google AdSense-4285F4?style=for-the-badge&logo=Google-AdSense&logoColor=white"> <img src="https://img.shields.io/badge/Google Analytics-E37400?style=for-the-badge&logo=Google-Analytics&logoColor=white">
   
-	- 2025년 4월부터 운영 시작. Spring, mabatis 기반으로 개발 (1인 개발)
+	- 2025년 4월부터 운영 시작. Spring, mybatis 기반으로 개발 (1인 개발)
 	- AWS EC2 호스팅
  	- 저렴한 서버를 사용하기 위해 최적화를 관점을 두고 작업
 	- Google SearchConsole, Google Analytics, Naver search advisor를 활용하여 사이트 운영 및 관리
