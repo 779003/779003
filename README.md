@@ -65,7 +65,7 @@ contact. mskim9003@gmail.com
 
 <br>
 
-**[[모비노기 정보]](http://mobinogi.info)** - 마비노기 모바일의 스케줄 관리 및 정보 공유 커뮤니티
+**[[모빈포]](http://mobinogi.info)** - 마비노기 모바일의 스케줄 관리 및 정보 공유 커뮤니티
   > <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"> <img src="https://img.shields.io/badge/Maria DB-003545?style=for-the-badge&logo=MariaDB&logoColor=white"> <img src="https://img.shields.io/badge/Google AdSense-4285F4?style=for-the-badge&logo=Google-AdSense&logoColor=white"> <img src="https://img.shields.io/badge/Google Analytics-E37400?style=for-the-badge&logo=Google-Analytics&logoColor=white">
   
 	- 2025년 4월부터 운영 시작. Spring, mabatis 기반으로 개발 (1인 개발)
