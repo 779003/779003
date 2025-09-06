@@ -30,6 +30,8 @@ contact. mskim9003@gmail.com
 	- Google SearchConsole, Google Analytics, Naver search advisor를 활용하여 사이트 운영 및 관리
 	- Google Adsense로 수익 실현
  
+<br>
+ 
 **[[시크릿 스레드]](http://secret-thread.com)** - 익명으로 활동할 수 있는 스레드플로팅 형식의 커뮤니티. 키워드로 소통하는 공간
   > <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"> <img src="https://img.shields.io/badge/Maria DB-003545?style=for-the-badge&logo=MariaDB&logoColor=white"> <img src="https://img.shields.io/badge/Google AdSense-4285F4?style=for-the-badge&logo=Google-AdSense&logoColor=white"> <img src="https://img.shields.io/badge/Google Analytics-E37400?style=for-the-badge&logo=Google-Analytics&logoColor=white"> <img src="https://img.shields.io/badge/Google Ads-4285F4?style=for-the-badge&logo=Google-Ads&logoColor=white">
   
@@ -53,7 +55,7 @@ contact. mskim9003@gmail.com
 
 <br>
 
-**[[캠핑 맵]](https://camping-map.com)** - 노지, 백패킹, 오토캠핑장 등 캠핑 위치 공유 플랫폼. 지도형식의 위치 공유, 사용자 리뷰
+**[[캠핑 맵]]** - 노지, 백패킹, 오토캠핑장 등 캠핑 위치 공유 플랫폼. 지도형식의 위치 공유, 사용자 리뷰
  > <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white"> <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=for-the-badge&logo=Spring-Security&logoColor=white"> <img src="https://img.shields.io/badge/Maria DB-003545?style=for-the-badge&logo=MariaDB&logoColor=white"> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white"> <img src="https://img.shields.io/badge/Amazon S3-569A31?style=for-the-badge&logo=AmazonS3&logoColor=white"> <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=for-the-badge&logo=Amazon-EC2&logoColor=white"> <img src="https://img.shields.io/badge/Naver login-03C75A?style=for-the-badge&logo=Naver&logoColor=white"> <img src="https://img.shields.io/badge/Google login-4285F4?style=for-the-badge&logo=Google&logoColor=white"> <img src="https://img.shields.io/badge/Google Analytics-E37400?style=for-the-badge&logo=Google-Analytics&logoColor=white"> <img src="https://img.shields.io/badge/Google Ads-4285F4?style=for-the-badge&logo=Google-Ads&logoColor=white">
 
 	- 2022년 5월부터 운영 시작. 디저트맵 리소스를 활용하여 개발 (1인 개발)
@@ -63,7 +65,6 @@ contact. mskim9003@gmail.com
 	- Google SearchConsole, Google Analytics, Naver search advisor를 활용하여 사이트 운영 및 관리
 	- Google Ads를 활용한 마케팅
 	
-
 <br>
 
 **[[Cargo system]]** - 수출 상품 창고 재고 관리, 입고/출고 현황, 주문서, 운송장 관리, 히스토리 및 대시보드 제공
