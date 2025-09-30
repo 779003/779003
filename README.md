@@ -148,7 +148,7 @@ contact. mskim9003@gmail.com
   > <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"> <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=for-the-badge&logo=Spring-Security&logoColor=white"> <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white"> <img src="https://img.shields.io/badge/Apache Cordova-E8E8E8?style=for-the-badge&logo=Apache-Cordova&logoColor=white">
   
   	- 2016.06 ~ 2017.06
-	- oAuth2를 활용한 학부생 포털 계정으로 로그인
+	- oAuth2를 활용한 학부생 포털 계정으로 로그인 구현
 	- Apache Cordova를 사용하여 하이브리드 앱 개발
 	- Android마켓, iOS마켓 등록
 	
