@@ -19,7 +19,18 @@ contact. mskim9003@gmail.com
 -----
 #### 😄개인 프로젝트😄
 
-**[[모빈포]](http://mobinogi.info)** - 마비노기 모바일의 스케줄 관리 및 정보 공유 커뮤니티
+**[[펫소나]](https://petsona.me)** - 성격 분석 및 정보 공유 커뮤니티
+  > <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white"> <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=for-the-badge&logo=Spring-Security&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white"> <img src="https://img.shields.io/badge/Amazon S3-569A31?style=for-the-badge&logo=AmazonS3&logoColor=white"> <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=for-the-badge&logo=Amazon-EC2&logoColor=white"> <img src="https://img.shields.io/badge/Naver login-03C75A?style=for-the-badge&logo=Naver&logoColor=white"> <img src="https://img.shields.io/badge/Google login-4285F4?style=for-the-badge&logo=Google&logoColor=white"> <img src="https://img.shields.io/badge/Google Analytics-E37400?style=for-the-badge&logo=Google-Analytics&logoColor=white"> 
+  
+	- 2025년 9월부터 운영 시작. SpringBoot, JPA 기반으로 개발 (1인 개발)
+	- AWS EC2 호스팅, Let's Encrypt을 이용하여 SSL인증서 구성 및 관리
+	- AWS S3를 이용한 이미지 업로드 기능 구현, AWS CoudFront를 이용하여 업로드 이미지 CDN 구축
+	- SNS로그인 구현 (Naver, Google, Facebook)
+	- Google SearchConsole, Google Analytics, Naver search advisor를 활용하여 사이트 운영 및 관리	
+ 
+<br>
+
+**[[모빈포]](https://mobinogi.info)** - 마비노기 모바일의 스케줄 관리 및 정보 공유 커뮤니티
   > <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"> <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=for-the-badge&logo=Spring-Security&logoColor=white"> <img src="https://img.shields.io/badge/Maria DB-003545?style=for-the-badge&logo=MariaDB&logoColor=white"> <img src="https://img.shields.io/badge/Amazon S3-569A31?style=for-the-badge&logo=AmazonS3&logoColor=white"> <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=for-the-badge&logo=Amazon-EC2&logoColor=white"> <img src="https://img.shields.io/badge/Google AdSense-4285F4?style=for-the-badge&logo=Google-AdSense&logoColor=white"> <img src="https://img.shields.io/badge/Google Analytics-E37400?style=for-the-badge&logo=Google-Analytics&logoColor=white">
   
 	- 3천명 이상의 회원 수 
